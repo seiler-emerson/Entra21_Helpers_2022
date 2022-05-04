@@ -36,4 +36,6 @@ Este repositório  tem a finalidade de auxiliar os alunos da turma Entra21 Java 
 |Importando Múltiplos Projetos no Eclipse|[Link](https://www.youtube.com/watch?v=xmMX_8XTyAY)
 |Renomeando Pastas do Workspace na IDE Eclipse|[Link](https://www.youtube.com/watch?v=xPUZNtjBQSM)
 
+---
+
 ![Yoda](./img/yoda_phrase.png)
