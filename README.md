@@ -16,7 +16,7 @@ Este repositório  tem a finalidade de auxiliar os alunos da turma Entra21 Java 
 |Git|[Link](https://git-scm.com/)
 |Tema Dracula Eclipse|[Link](https://draculatheme.com/)
 |Reposiório Lógica Java - Professor|[Link](https://github.com/oliota/entra21-aulas-logica-java)
-|Exercícios Java|[Link](https://github.com/seiler-emerson/Exercicios_Java)
+|Dicas de Exercícios em Java|[Link](https://github.com/seiler-emerson/Exercicios_Java)
 
 ---
 
