@@ -18,7 +18,7 @@ Este repositório  tem a finalidade de auxiliar os alunos da turma Entra21 Java 
 |Reposiório Lógica Java - Professor|[Link](https://github.com/oliota/entra21-aulas-logica-java)
 |Dicas de Exercícios em Java|[Link](https://github.com/seiler-emerson/Exercicios_Java)
 
-- Observação: Liks privados estão disponíveis no grupo do WhatsApp.
+- Observação: Links privados estão disponíveis no grupo do WhatsApp.
 ---
 
 ## Tutoriais
