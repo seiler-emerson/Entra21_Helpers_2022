@@ -39,4 +39,12 @@ Este repositório  tem a finalidade de auxiliar os alunos da turma Entra21 Java 
 
 ---
 
+## Lives/Vídeos Alunos
+
+| Conteúdo | Link |
+|------|---------|
+|Helpers 01 - Funções - Welliton|[Link](https://youtu.be/78G9VOUp7WE)
+
+---
+
 ![Yoda](./img/yoda_phrase.png)
