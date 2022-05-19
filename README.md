@@ -1,49 +1,52 @@
-# Orientações
+# Guidelines
 
-Este repositório  tem a finalidade de auxiliar os alunos da turma Entra21 Java / Angular com informações e dicas pertinentes ao curso.
+This repository is intended to help students from the Entra21 Java / Angular class with information and tips relevant to the course.
+
+To access the PT-BR version of this guide, click [here](./README_ptbr.md).
 
 ---
 
-## Links Úteis
+## Useful links
 
-| Conteúdo | Link |
+| Contents | Link |
 |------|---------|
-|Site Prof Oliota|[Link](https://oliota.com)
-|Proway Aluno|[Link](https://externo.proway.com.br/login-aluno)
+|Teacher Oliota Website|[Link](https://oliota.com)
+|Proway Student|[Link](https://externo.proway.com.br/login-aluno)
 |GitHub|[Link](https://github.com/)
 |Trello|[Link](https://trello.com/)
 |IDE Eclipse|[Link](https://www.eclipse.org/downloads/packages/installer)
 |Git|[Link](https://git-scm.com/)
-|Tema Dracula Eclipse|[Link](https://draculatheme.com/)
-|Reposiório Lógica Java - Professor|[Link](https://github.com/oliota/entra21-aulas-logica-java)
-|Dicas de Exercícios em Java|[Link](https://github.com/seiler-emerson/Exercicios_Java)
+|Dracula Theme Eclipse|[Link](https://draculatheme.com/)
+|Java Logic Repository - Teacher|[Link](https://github.com/oliota/entra21-aulas-logica-java)
+|Java Exercise Tips|[Link](https://github.com/seiler-emerson/Exercicios_Java)
 
-- Observação: Links privados estão disponíveis no grupo do WhatsApp.
+- Note: Private links are available in the WhatsApp group.
 ---
 
-## Tutoriais
+## Tutorials
 
-| Conteúdo | Link |
+| Contents | Link |
 |------|---------|
-|Instalação IDE Eclipse|[Link](https://www.youtube.com/watch?v=cuq6E6lrbKc&t)
-|Instalação do Tema Dracula no Eclipse|[Link](https://www.youtube.com/watch?v=0uphTI4YCVw&)
-|Instalando o Git no Windows|[Link](https://www.youtube.com/watch?v=TNOaiLsaHWg)
-|Criando Conta Github|[Link](https://www.youtube.com/watch?v=7eSTGI7pckU)
-|Autenticando Github Localmente - Clone - Push|[Link](https://www.youtube.com/watch?v=DfZXmpJBY8g)
-|Criando um Repositório no Github|[Link](https://www.youtube.com/watch?v=dPwZdSwLAlI)
-|Criando Arquivo Readme do Perfil|[Link](https://www.youtube.com/watch?v=w_I72wVVTDE)
-|Criando Projeto na IDE Eclipse|[Link](https://www.youtube.com/watch?v=MnbOvxmOET0)
-|Importando um Projeto no Eclipse|[Link](https://www.youtube.com/watch?v=R-8OF9ipeT8)
-|Importando Múltiplos Projetos no Eclipse|[Link](https://www.youtube.com/watch?v=xmMX_8XTyAY)
-|Renomeando Pastas do Workspace na IDE Eclipse|[Link](https://www.youtube.com/watch?v=xPUZNtjBQSM)
+|Installation IDE Eclipse|[Link](https://www.youtube.com/watch?v=cuq6E6lrbKc&t)
+|Installing Dracula Theme in Eclipse|[Link](https://www.youtube.com/watch?v=0uphTI4YCVw&)
+|Installing Git on Windows|[Link](https://www.youtube.com/watch?v=TNOaiLsaHWg)
+|Creating Github Account|[Link](https://www.youtube.com/watch?v=7eSTGI7pckU)
+|Authenticating Github Locally - Clone - Push|[Link](https://www.youtube.com/watch?v=DfZXmpJBY8g)
+|Creating a Repository on Github|[Link](https://www.youtube.com/watch?v=dPwZdSwLAlI)
+|Creating Profile Readme File|[Link](https://www.youtube.com/watch?v=w_I72wVVTDE)
+|Creating Project in Eclipse IDE|[Link](https://www.youtube.com/watch?v=MnbOvxmOET0)
+|Importing a Project in Eclipse|[Link](https://www.youtube.com/watch?v=R-8OF9ipeT8)
+|Importing Multiple Projects in Eclipse|[Link](https://www.youtube.com/watch?v=xmMX_8XTyAY)
+|Renaming Workspace Folders in the Eclipse IDE|[Link](https://www.youtube.com/watch?v=xPUZNtjBQSM)
+|How to add Github link in Trello Summary|[Link](https://youtu.be/5X_fhw3MuXw)
 
 ---
 
-## Lives/Vídeos Alunos
+## Lives/Videos Students
 
-| Conteúdo | Link |
+| Contents | Link |
 |------|---------|
-|Helpers 01 - Funções - Welliton|[Link](https://youtu.be/78G9VOUp7WE)
+|Helpers 01 - Functions - Welliton|[Link](https://youtu.be/78G9VOUp7WE)
 
 ---
 
