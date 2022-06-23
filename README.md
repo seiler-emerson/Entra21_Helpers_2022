@@ -27,6 +27,11 @@ To access the PT-BR version of this guide, click [here](./README_ptbr.md).
 
 | Contents | Link |
 |------|---------|
+|Installation Database Mysql|[Link](https://youtu.be/0LJrh9Vuowg)
+|Installation VSCode|[Link](https://youtu.be/82GnguThEAQ)
+|Git Push with VSCode|[Link](https://youtu.be/rRL9lm-a4ms)
+|Installing Bearded Theme VSCode|[Link](https://youtu.be/V3_UEjKYHb8)
+|Installing Dracula Theme VSCode|[Link](https://youtu.be/9IHE5cdDSz8)
 |Installation IDE Eclipse|[Link](https://www.youtube.com/watch?v=cuq6E6lrbKc&t)
 |Installing Dracula Theme in Eclipse|[Link](https://www.youtube.com/watch?v=0uphTI4YCVw&)
 |Installing Git on Windows|[Link](https://www.youtube.com/watch?v=TNOaiLsaHWg)
