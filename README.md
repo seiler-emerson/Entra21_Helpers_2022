@@ -19,6 +19,7 @@ To access the PT-BR version of this guide, click [here](./README_ptbr.md).
 |Dracula Theme Eclipse|[Link](https://draculatheme.com/)
 |Java Logic Repository - Teacher|[Link](https://github.com/oliota/entra21-aulas-logica-java)
 |Java Exercise Tips|[Link](https://github.com/seiler-emerson/Exercicios_Java)
+|JavaScript Exercise Tips|[Link](https://github.com/seiler-emerson/Exercicios_JavaScript)
 
 - Note: Private links are available in the WhatsApp group.
 ---
